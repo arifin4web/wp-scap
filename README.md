@@ -15,6 +15,8 @@ according to their custom design needs.
 Currently shortcode Output is a 4x2 Grid of shutterstock images with affiliate link. Fluid design. Hopefully 
 add other designs and more design options in future.
 
+Get this plugin from <a href="http://wordpress.org/plugins/wp-scap/">wordpress plugin repository</a>.
+
 
 ## Features : 
 
@@ -25,7 +27,27 @@ add other designs and more design options in future.
 
 ## Installation
 
-Standard Wordpress plugin installation Procedure.
+### Using The WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Search for 'wp-scap'
+3. Click 'Install Now'
+4. Activate the plugin on the Plugin dashboard
+
+### Uploading in WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Navigate to the 'Upload' area
+3. Select `wp-scap.zip` from your computer
+4. Click 'Install Now'
+5. Activate the plugin in the Plugin dashboard
+
+### Using FTP =
+
+1. Download `wp-scap.zip`
+2. Extract the `wp-scap` directory to your computer
+3. Upload the `wp-scap` directory to the `/wp-content/plugins/` directory
+4. Activate the plugin in the Plugin dashboard
 
 ## Usages
 
